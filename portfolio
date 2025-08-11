@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - Morad Margoum</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: url('vecteur-fond-degrade-bleu-simple-pour-entreprises_53876-166894.avif') no-repeat center center fixed;
+      background-size: cover;
+      color: #333;
+    }
+    header {
+      background-color: rgba(13, 110, 253, 0.85);
+      color: white;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 3px solid white;
+      margin-top: 15px;
+      object-fit: cover;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background: rgba(255,255,255,0.9);
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+    h2 {
+      color: #0d6efd;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .contact a {
+      text-decoration: none;
+      color: #0d6efd;
+      font-weight: bold;
+    }
+    .motivation {
+      font-style: italic;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Morad Margoum</h1>
+  <p>Contrat d'alternance en informatique</p>
+  <img src="https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740&q=80" alt="https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740&q=80">
+</header>
+
+<section>
+  <h2>À propos</h2>
+  <p>
+    Diplômé d’un baccalauréat professionnel en mécanique automobile, je me réoriente vers l’informatique, domaine en pleine expansion. Passionné par l’innovation, je recherche un contrat en alternance pour allier formation et expérience.
+  </p>
+</section>
+
+<section>
+  <h2>Lettre de motivation</h2>
+  <p class="motivation">
+    Diplômé d’un baccalauréat professionnel en Mécanique automobile, je souhaite me réorienter vers le domaine de l’informatique, un secteur en pleine expansion, porté par les nouvelles technologies et l’intelligence artificielle. Passionné par l’innovation et motivé à acquérir des compétences techniques, je recherche un contrat en alternance pour allier formation théorique et expérience professionnelle.
+  </p>
+</section>
+
+<section>
+  <h2>Compétences</h2>
+  <ul>
+    <li>Développement Web et Application : HTML, Python, Java</li>
+    <li>Modélisation et gestion de bases de données</li>
+    <li>Outils bureautiques : Microsoft Office, PDF</li>
+    <li>Virtualisation : VMware Workstation, GNS3</li>
+    <li>Conception mécanique : SOLIDWORKS</li>
+    <li>Diagnostic électrique et mécanique</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Formations</h2>
+  <ul>
+    <li><strong>Baccalauréat professionnel MVA</strong> – 2023, Lycée Georges Cisson, Toulon</li>
+    <li><strong>Formation Menuiserie Aluminium-Verre</strong> – 2020, Lycée Paul Langevin, La Seyne-sur-Mer</li>
+    <li><strong>Projet développement web & app</strong> – 2024, Maestris BTS Toulon</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Expériences professionnelles</h2>
+  <ul>
+    <li><strong>Stage – Mécanique automobile</strong>, Norauto Ollioules (2023)</li>
+    <li><strong>Stage – Ferronnerie</strong>, Ferronnerie des Prats (2022-2023)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Centres d’intérêt</h2>
+  <p>Voyages, Boxe, Gaming</p>
+</section>
+
+<div class="contact">
+  <p>Email : <a href="mailto:morad.margoum835@gmail.com">morad.margoum835@gmail.com</a></p>
+  <p>Téléphone : 07 61 14 71 53</p>
+  <p>Lieu : La Seyne-sur-Mer (83500)</p>
+  <p><a href="c:\Users\MARGOUM Morad\Desktop\CV_2025-02-09_Morad_MARGOUM (model 1)[1].pdf" download>Télécharger mon CV</a></p>
+</div>
+
+</body>
+</html>
